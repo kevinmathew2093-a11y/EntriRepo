@@ -1,0 +1,2 @@
+# EntriRepo
+Mini_Project
