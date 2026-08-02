@@ -1,2 +1,2 @@
 # EntriRepo
-Mini_Project
+Final_Project
