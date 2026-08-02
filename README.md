@@ -1,2 +1,0 @@
-# EntriRepo
-Final_Project
